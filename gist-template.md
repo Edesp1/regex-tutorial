@@ -132,3 +132,14 @@ For example, using the `validator` library in JavaScript:
 ```javascript
 const validator = require('validator');
 console.log(validator.isEmail('example.email@domain.com')); // true
+
+## Author
+
+Eduardo Lopez: Oregon Univseristy web dev student
+
+### Sources and References
+    * [regexr](https://regexr.com/)
+    * [BackRef](https://www.regular-expressions.info/backref.html)
+    * [RegExpression](https://www.regular-expressions.info/wordboundaries.html)
+
+My Github [github] https://github.com/Edesp1
