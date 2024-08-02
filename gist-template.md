@@ -132,6 +132,7 @@ For example, using the `validator` library in JavaScript:
 ```javascript
 const validator = require('validator');
 console.log(validator.isEmail('example.email@domain.com')); // true
+```
 
 ## Author
 
